@@ -12,7 +12,7 @@ public class Operacion {
 		if (kgsRopa <= 20) {
 			llenado = 1;
 			System.out.println("llenando... ");
-			System.out.println("llenando completo cambio para prueba ");
+			System.out.println("llenando completo cambio para prueba 123 ");
 		}
 	}
 	
